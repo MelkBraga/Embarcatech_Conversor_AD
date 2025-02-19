@@ -1,3 +1,5 @@
+DESCOMPACTAR A PASTA "INC" DENTRO DA PASTA DO REPOSITÓRIO!!
+
 # Embarcatech_Comunicacao_Serial
 Repositório criado para a Tarefa 1 - Aula Síncrona 10/02 - ADC
 
